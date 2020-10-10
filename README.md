@@ -1,2 +1,2 @@
 # PersonDirectoryHumanClassifier
-PersonDirectoryHumanClassifier for Exiger Company https://www.linkedin.com/company/exiger
+PersonDirectoryHumanClassifier using Naive Bayes binary classification
