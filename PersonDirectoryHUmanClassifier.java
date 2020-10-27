@@ -24,7 +24,6 @@ public class PersonDirectoryPageClassfier {
 
 
     private static List<String> processText(List<String> text) {
-        //combine list <string> to one big string
         String page = "";
         for (String s : text) {
             page = page + " " + s;
